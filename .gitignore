@@ -1,0 +1,5 @@
+docker-compose.yml
+.idea/
+.env
+dist/
+node_modules
